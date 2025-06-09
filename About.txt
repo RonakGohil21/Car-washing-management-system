@@ -1,0 +1,16 @@
+DATABASE NAME : cwmsdb
+
+go to the link http://localhost/phpmyadmin/
+
+create a new database named cwmsdb
+
+import the dbase file from the SQL folder and create the database.
+
+after getting the database imported successfully , you have to go to the link localhost/cwms
+
+for access the admin :
+
+USERNAME : admin
+
+PASSWORD : Ronak@123
+
